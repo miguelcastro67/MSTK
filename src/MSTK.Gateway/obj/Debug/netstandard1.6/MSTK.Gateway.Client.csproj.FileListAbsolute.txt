@@ -1,0 +1,4 @@
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.Gateway.Client\obj\Debug\netstandard1.6\MSTK.Gateway.Client.csproj.CoreCompileInputs.cache
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.Gateway.Client\obj\Debug\netstandard1.6\MSTK.Gateway.Client.AssemblyInfoInputs.cache
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.Gateway.Client\obj\Debug\netstandard1.6\MSTK.Gateway.Client.AssemblyInfo.cs
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.Gateway.Client\obj\Debug\netstandard1.6\MSTK.Gateway.Client.csprojResolveAssemblyReference.cache

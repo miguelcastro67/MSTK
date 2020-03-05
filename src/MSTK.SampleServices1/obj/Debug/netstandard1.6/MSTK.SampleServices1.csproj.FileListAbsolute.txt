@@ -1,0 +1,4 @@
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.SampleServices1\obj\Debug\netstandard1.6\MSTK.SampleServices1.csprojResolveAssemblyReference.cache
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.SampleServices1\obj\Debug\netstandard1.6\MSTK.SampleServices1.csproj.CoreCompileInputs.cache
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.SampleServices1\obj\Debug\netstandard1.6\MSTK.SampleServices1.AssemblyInfoInputs.cache
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.SampleServices1\obj\Debug\netstandard1.6\MSTK.SampleServices1.AssemblyInfo.cs

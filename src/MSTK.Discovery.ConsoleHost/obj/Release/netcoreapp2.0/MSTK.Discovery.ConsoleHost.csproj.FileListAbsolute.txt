@@ -1,0 +1,15 @@
+F:\Projects\MicroserviceToolkit\src\MSTK.Discovery.ConsoleHost\bin\Release\netcoreapp2.0\MSTK.Discovery.ConsoleHost.deps.json
+F:\Projects\MicroserviceToolkit\src\MSTK.Discovery.ConsoleHost\bin\Release\netcoreapp2.0\MSTK.Discovery.ConsoleHost.runtimeconfig.json
+F:\Projects\MicroserviceToolkit\src\MSTK.Discovery.ConsoleHost\bin\Release\netcoreapp2.0\MSTK.Discovery.ConsoleHost.runtimeconfig.dev.json
+F:\Projects\MicroserviceToolkit\src\MSTK.Discovery.ConsoleHost\bin\Release\netcoreapp2.0\MSTK.Discovery.ConsoleHost.dll
+F:\Projects\MicroserviceToolkit\src\MSTK.Discovery.ConsoleHost\bin\Release\netcoreapp2.0\MSTK.Discovery.ConsoleHost.pdb
+F:\Projects\MicroserviceToolkit\src\MSTK.Discovery.ConsoleHost\bin\Release\netcoreapp2.0\MSTK.Common.dll
+F:\Projects\MicroserviceToolkit\src\MSTK.Discovery.ConsoleHost\bin\Release\netcoreapp2.0\MSTK.Discovery.Engine.dll
+F:\Projects\MicroserviceToolkit\src\MSTK.Discovery.ConsoleHost\bin\Release\netcoreapp2.0\MSTK.Discovery.Engine.pdb
+F:\Projects\MicroserviceToolkit\src\MSTK.Discovery.ConsoleHost\bin\Release\netcoreapp2.0\MSTK.Common.pdb
+F:\Projects\MicroserviceToolkit\src\MSTK.Discovery.ConsoleHost\obj\Release\netcoreapp2.0\MSTK.Discovery.ConsoleHost.csprojResolveAssemblyReference.cache
+F:\Projects\MicroserviceToolkit\src\MSTK.Discovery.ConsoleHost\obj\Release\netcoreapp2.0\MSTK.Discovery.ConsoleHost.csproj.CoreCompileInputs.cache
+F:\Projects\MicroserviceToolkit\src\MSTK.Discovery.ConsoleHost\obj\Release\netcoreapp2.0\MSTK.Discovery.ConsoleHost.AssemblyInfoInputs.cache
+F:\Projects\MicroserviceToolkit\src\MSTK.Discovery.ConsoleHost\obj\Release\netcoreapp2.0\MSTK.Discovery.ConsoleHost.AssemblyInfo.cs
+F:\Projects\MicroserviceToolkit\src\MSTK.Discovery.ConsoleHost\obj\Release\netcoreapp2.0\MSTK.Discovery.ConsoleHost.dll
+F:\Projects\MicroserviceToolkit\src\MSTK.Discovery.ConsoleHost\obj\Release\netcoreapp2.0\MSTK.Discovery.ConsoleHost.pdb

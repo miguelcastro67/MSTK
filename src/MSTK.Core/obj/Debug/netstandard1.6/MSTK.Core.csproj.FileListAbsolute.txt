@@ -1,0 +1,9 @@
+F:\Projects\MicroserviceToolkit\src\MSTK.Core\bin\Debug\netstandard1.6\MSTK.Core.deps.json
+F:\Projects\MicroserviceToolkit\src\MSTK.Core\bin\Debug\netstandard1.6\MSTK.Core.dll
+F:\Projects\MicroserviceToolkit\src\MSTK.Core\bin\Debug\netstandard1.6\MSTK.Core.pdb
+F:\Projects\MicroserviceToolkit\src\MSTK.Core\obj\Debug\netstandard1.6\MSTK.Core.csprojAssemblyReference.cache
+F:\Projects\MicroserviceToolkit\src\MSTK.Core\obj\Debug\netstandard1.6\MSTK.Core.csproj.CoreCompileInputs.cache
+F:\Projects\MicroserviceToolkit\src\MSTK.Core\obj\Debug\netstandard1.6\MSTK.Core.AssemblyInfoInputs.cache
+F:\Projects\MicroserviceToolkit\src\MSTK.Core\obj\Debug\netstandard1.6\MSTK.Core.AssemblyInfo.cs
+F:\Projects\MicroserviceToolkit\src\MSTK.Core\obj\Debug\netstandard1.6\MSTK.Core.dll
+F:\Projects\MicroserviceToolkit\src\MSTK.Core\obj\Debug\netstandard1.6\MSTK.Core.pdb

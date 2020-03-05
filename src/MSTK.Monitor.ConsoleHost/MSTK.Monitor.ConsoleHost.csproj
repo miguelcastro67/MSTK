@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="hosts.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="hosts.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MSTK.Core\MSTK.Core.csproj" />
+    <ProjectReference Include="..\MSTK.Monitor\MSTK.Monitor.csproj" />
+  </ItemGroup>
+
+</Project>

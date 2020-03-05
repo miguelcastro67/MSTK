@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Projects\\MicroserviceToolkit\\V2.2\\src\\MSTK.Gateway.JSClient\\MSTK.Gateway.JSClient.csproj": {}
+  },
+  "projects": {
+    "F:\\Projects\\MicroserviceToolkit\\V2.2\\src\\MSTK.Gateway.JSClient\\MSTK.Gateway.JSClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\MicroserviceToolkit\\V2.2\\src\\MSTK.Gateway.JSClient\\MSTK.Gateway.JSClient.csproj",
+        "projectName": "MSTK.Gateway.JSClient",
+        "projectPath": "F:\\Projects\\MicroserviceToolkit\\V2.2\\src\\MSTK.Gateway.JSClient\\MSTK.Gateway.JSClient.csproj",
+        "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\MicroserviceToolkit\\V2.2\\src\\MSTK.Gateway.JSClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\Clients\\TekSavvy\\NuGet": {},
+          "F:\\Projects\\NuGet": {},
+          "https://nuget.devexpress.com/IiaiIDRIW8mUbv8b5OBxxfmwTojKlTmN7dsBsxsuVkDkQjgngu/api": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

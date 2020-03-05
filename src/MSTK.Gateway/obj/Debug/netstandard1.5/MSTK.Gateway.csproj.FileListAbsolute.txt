@@ -1,0 +1,12 @@
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.Gateway\bin\Debug\netstandard1.5\MSTK.Gateway.deps.json
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.Gateway\bin\Debug\netstandard1.5\MSTK.Gateway.dll
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.Gateway\bin\Debug\netstandard1.5\MSTK.Gateway.pdb
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.Gateway\bin\Debug\netstandard1.5\MSTK.Core.dll
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.Gateway\bin\Debug\netstandard1.5\MSTK.Core.pdb
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.Gateway\obj\Debug\netstandard1.5\MSTK.Gateway.csprojResolveAssemblyReference.cache
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.Gateway\obj\Debug\netstandard1.5\MSTK.Gateway.csproj.CoreCompileInputs.cache
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.Gateway\obj\Debug\netstandard1.5\MSTK.Gateway.AssemblyInfoInputs.cache
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.Gateway\obj\Debug\netstandard1.5\MSTK.Gateway.AssemblyInfo.cs
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.Gateway\obj\Debug\netstandard1.5\MSTK.Gateway.dll
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.Gateway\obj\Debug\netstandard1.5\MSTK.Gateway.pdb
+F:\Projects\Freeware\MicroserviceToolkit\src\MSTK.Gateway\obj\Debug\netstandard1.5\MSTK.Gateway.csproj.CopyComplete

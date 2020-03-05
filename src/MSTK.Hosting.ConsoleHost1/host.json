@@ -1,0 +1,6 @@
+{
+  "hostName": "Host1",
+  "discoveryHubHost": "http://localhost:8084",
+  "eventHubHost": "http://localhost:8085",
+  "monitorHubHost": "http://localhost:8086"
+}

@@ -1,0 +1,9 @@
+F:\Projects\Freeware\MicroserviceToolkit\V2\src\MSTK.Monitoring\bin\Debug\netstandard2.0\MSTK.Monitoring.deps.json
+F:\Projects\Freeware\MicroserviceToolkit\V2\src\MSTK.Monitoring\bin\Debug\netstandard2.0\MSTK.Monitoring.dll
+F:\Projects\Freeware\MicroserviceToolkit\V2\src\MSTK.Monitoring\obj\Debug\netstandard2.0\MSTK.Monitoring.csprojAssemblyReference.cache
+F:\Projects\Freeware\MicroserviceToolkit\V2\src\MSTK.Monitoring\obj\Debug\netstandard2.0\MSTK.Monitoring.csproj.CoreCompileInputs.cache
+F:\Projects\Freeware\MicroserviceToolkit\V2\src\MSTK.Monitoring\obj\Debug\netstandard2.0\MSTK.Monitoring.AssemblyInfoInputs.cache
+F:\Projects\Freeware\MicroserviceToolkit\V2\src\MSTK.Monitoring\obj\Debug\netstandard2.0\MSTK.Monitoring.AssemblyInfo.cs
+F:\Projects\Freeware\MicroserviceToolkit\V2\src\MSTK.Monitoring\bin\Debug\netstandard2.0\MSTK.Core.dll
+F:\Projects\Freeware\MicroserviceToolkit\V2\src\MSTK.Monitoring\bin\Debug\netstandard2.0\MSTK.Core.pdb
+F:\Projects\Freeware\MicroserviceToolkit\V2\src\MSTK.Monitoring\obj\Debug\netstandard2.0\MSTK.Monitoring.csproj.CopyComplete

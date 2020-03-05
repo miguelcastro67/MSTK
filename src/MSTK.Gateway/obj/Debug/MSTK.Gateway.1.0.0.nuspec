@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MSTK.Gateway</id>
+    <version>1.0.0</version>
+    <authors>Miguel A. Castro</authors>
+    <owners>Miguel A. Castro</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package contains the components that make up the API Gateway designed to interface with MSTK-compliant discovery hosts and service hosts. It can easily be used as-is or serve as a base for a domain-specific custom API gateway you can write.</description>
+    <releaseNotes>Note this is a .NET-based gateway designed to be called upon from .NET libraries. Refer to the MSTK.Gateway.JS package for the JavaScript API Gateway.</releaseNotes>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="MSTK.Core" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CSharp" version="4.5.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Projects\Freeware\MicroserviceToolkit\V2.1\src\MSTK.Gateway\bin\Debug\netstandard2.0\MSTK.Gateway.dll" target="lib\netstandard2.0\MSTK.Gateway.dll" />
+  </files>
+</package>

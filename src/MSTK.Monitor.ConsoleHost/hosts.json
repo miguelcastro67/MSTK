@@ -1,0 +1,14 @@
+{
+  "hosts": [
+    {
+      "hostName": "Host1",
+      "minInstances": 2,
+      "maxInstances": 3
+    },
+    {
+      "hostName": "Host2",
+      "minInstances": 1,
+      "maxInstances": 3
+    }
+  ]
+}

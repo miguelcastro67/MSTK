@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Name": "TestHost1",
+    "Address": "http://BIGMOFORIG1:8008/",
+    "Services": [
+      {
+        "Name": "MathService",
+        "DiscoveryName": "MathService",
+        "Operations": [
+          {
+            "Name": "Add",
+            "Method": "GET",
+            "Route": "api/calculator/add/{x}/{y}",
+            "DiscoveryName": "AddOperation"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MSTK.Core</id>
+    <version>1.0.0</version>
+    <authors>Miguel A. Castro</authors>
+    <owners>Miguel A. Castro</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package contains the shared components that are a requirement for the microservice trinity. Packages that depend on this are the Hosting, Discovery, and Gateway package. It is also the only package required by any services that will take part in an MSTK-compliant project.</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Projects\Freeware\MicroserviceToolkit\V2.1\src\MSTK.Core\bin\Debug\netstandard2.0\MSTK.Core.dll" target="lib\netstandard2.0\MSTK.Core.dll" />
+  </files>
+</package>

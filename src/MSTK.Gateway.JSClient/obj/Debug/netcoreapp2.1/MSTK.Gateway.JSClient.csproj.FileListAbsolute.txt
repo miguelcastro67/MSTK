@@ -1,0 +1,14 @@
+F:\Projects\MicroserviceToolkit\src\MSTK.Gateway.JSClient\bin\Debug\netcoreapp2.1\MSTK.Gateway.JSClient.deps.json
+F:\Projects\MicroserviceToolkit\src\MSTK.Gateway.JSClient\bin\Debug\netcoreapp2.1\MSTK.Gateway.JSClient.runtimeconfig.json
+F:\Projects\MicroserviceToolkit\src\MSTK.Gateway.JSClient\bin\Debug\netcoreapp2.1\MSTK.Gateway.JSClient.runtimeconfig.dev.json
+F:\Projects\MicroserviceToolkit\src\MSTK.Gateway.JSClient\bin\Debug\netcoreapp2.1\MSTK.Gateway.JSClient.dll
+F:\Projects\MicroserviceToolkit\src\MSTK.Gateway.JSClient\bin\Debug\netcoreapp2.1\MSTK.Gateway.JSClient.pdb
+F:\Projects\MicroserviceToolkit\src\MSTK.Gateway.JSClient\obj\Debug\netcoreapp2.1\MSTK.Gateway.JSClient.csprojAssemblyReference.cache
+F:\Projects\MicroserviceToolkit\src\MSTK.Gateway.JSClient\obj\Debug\netcoreapp2.1\MSTK.Gateway.JSClient.csproj.CoreCompileInputs.cache
+F:\Projects\MicroserviceToolkit\src\MSTK.Gateway.JSClient\obj\Debug\netcoreapp2.1\MSTK.Gateway.JSClient.RazorAssemblyInfo.cache
+F:\Projects\MicroserviceToolkit\src\MSTK.Gateway.JSClient\obj\Debug\netcoreapp2.1\MSTK.Gateway.JSClient.RazorAssemblyInfo.cs
+F:\Projects\MicroserviceToolkit\src\MSTK.Gateway.JSClient\obj\Debug\netcoreapp2.1\MSTK.Gateway.JSClient.AssemblyInfoInputs.cache
+F:\Projects\MicroserviceToolkit\src\MSTK.Gateway.JSClient\obj\Debug\netcoreapp2.1\MSTK.Gateway.JSClient.AssemblyInfo.cs
+F:\Projects\MicroserviceToolkit\src\MSTK.Gateway.JSClient\obj\Debug\netcoreapp2.1\MSTK.Gateway.JSClient.RazorTargetAssemblyInfo.cache
+F:\Projects\MicroserviceToolkit\src\MSTK.Gateway.JSClient\obj\Debug\netcoreapp2.1\MSTK.Gateway.JSClient.dll
+F:\Projects\MicroserviceToolkit\src\MSTK.Gateway.JSClient\obj\Debug\netcoreapp2.1\MSTK.Gateway.JSClient.pdb

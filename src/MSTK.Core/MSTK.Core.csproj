@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Miguel A. Castro</Authors>
+    <Company>Melvicorp LLC</Company>
+    <Product>Microservice Toolkit Core Library</Product>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>This package contains the shared components that are a requirement for the microservice trinity. Packages that depend on this are the Hosting, Discovery, and Gateway package. It is also the only package required by any services that will take part in an MSTK-compliant project.</Description>
+    <NeutralLanguage>en-US</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>
