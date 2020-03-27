@@ -17,28 +17,47 @@ The class libraries are all .NET Standard 2.0 projects and can be consumed by an
 ## The Projects
 
 MSTK.Core
+###
 MSTK.Core.Abstractions
+###
 MSTK.Discovery
+###
 MSTK.Discovery.ConsoleHost
+###
 MSTK.Eventing
+###
 MSTK.Eventing.ConsoleHost
+###
 MSTK.Gateway
+###
 MSTK.Gateway.JSClient
+###
 MSTK.Hosting
+###
 MSTK.Hosting.ConsoleHost1
+###
 MSTK.Hosting.ConsoleHost2
+###
 MSTK.Monitor
+###
 MSTK.Monitor.ConsoleHost
+###
 MSTK.SampleServices1
+###
 MSTK.SampleServices2
+###
 MSTK.SDK
+###
 MSTK.TestClient
+###
 
 in progresss...
 
 ## Running the Demo
 
 The code in this repository is ready to run as is as a full featured demo.
+###
 The excutables that should be run are all the ConsoleHost projects.
+###
 
 in progress...
