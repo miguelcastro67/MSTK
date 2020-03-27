@@ -55,9 +55,7 @@ in progresss...
 
 ## Running the Demo
 
-The code in this repository is ready to run as is as a full featured demo.
-###
-The excutables that should be run are all the ConsoleHost projects.
+The code in this repository is ready to run as is as a full featured demo. The excutables that should be run are all the ConsoleHost projects.
 ###
 
 in progress...
